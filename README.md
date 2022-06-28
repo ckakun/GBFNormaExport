@@ -2,7 +2,7 @@
 
 ## 動作環境
 
-- OS問わず(確認済みWindows10 64bit)
+- Windows10
 - Python >= 3.8
 
 ## 導入手順
