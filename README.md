@@ -1,0 +1,2 @@
+# GBFNormaExporter
+グラブル古戦場のノルマをTSV形式で算出するツール
