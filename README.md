@@ -1,5 +1,12 @@
 # GBF ノルマ自動算出ツール
 
+## 目的
+- 予選とは別に本戦貢献度のノルマがある場合に手打ちで出すのが面倒なのを解決したい
+
+## どんな動作をするのか
+- [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)を使用し、保存したHTMLファイルを解析  
+解析結果からグラブルネームと現在の貢献度とノルマを追加した貢献度を[TSV](https://docs.python.org/ja/3/library/csv.html)形式で出力する
+
 ## 動作環境
 
 - Windows10
